@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarcoGYTV2!
+- 👀 I’m interested in ... Learning how to code so i can make plugins for the community.
+- 🌱 I’m currently learning ... Lua scripting , And i wouldlove to learn PHP.
+- 💞️ I’m looking to collaborate on ... teaching me how to make plugins.
+- 📫 How to reach me ... Discord MarcoGYT#9285
